@@ -1,6 +1,6 @@
 # Feynn Labs - Machine Learning Internship
 
-## Market Segmentation Case Study in Python
+## Task 2: Market Segmentation Case Study in Python
 
 This repository contains a Python-based market segmentation case study using McDonald's perception data from 1453 adult Australian consumers. The analysis includes exploratory data analysis, principal component analysis (PCA), segmentation using k-Means and Gaussian Mixture Models, hierarchical clustering, profiling segments, and selecting target segments.
 
