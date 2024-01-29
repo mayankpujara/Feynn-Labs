@@ -12,16 +12,13 @@ This repository contains a Python-based market segmentation case study using McD
 1. Clone the repository
    ```
    git clone https://github.com/mayankpujara/Feynn-Labs.git
-   
 2. Navigate to the repository
    ```
-   cd Market Segment Analysis Case Study
-   
+   cd "Market Segment Analysis Case Study"
 3. Open and run the Jupyter notebook Market Segmentation Case Study.ipynb using a Jupyter environment.
 4. For Libraries
    ```
    pip install pandas numpy matplotlib seaborn scikit-learn statsmodels scipy
-
 ### Data Source
 The dataset used in this case study is from responses obtained from 1453 adult Australian consumers regarding their perceptions of McDonald's. The data is stored in the **mcdonalds.csv** file.
 
