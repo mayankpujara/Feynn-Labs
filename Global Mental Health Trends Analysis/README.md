@@ -8,7 +8,7 @@ This repository explores global trends in mental health disorders and leverages 
 
 ## Code Structure:
 
-- dataset: Contains the dataset (Dataset Link)[https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder].
+- dataset: Contains the dataset [Dataset Link](https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder).
 - notebooks: Houses the Jupyter Notebook (Global Trends in Mental Health Disorder - Source Code.ipynb) that performs the analysis and visualizations.
 - requirements.txt: Lists the required Python libraries (e.g., pandas, seaborn, scikit-learn, etc.).
 
@@ -28,7 +28,7 @@ This dataset contains informative data from countries across the globe about the
 - Depression (%):	Percentage of people with depression in that country/region during that year. (Float)
 - Alcohol use disorders (%):	Percentage of people with alcohol use disorders in that country/region during that year. (Float)
 
-Access the dataset using this (Link)[https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder]
+Access the dataset using this [Link](https://www.kaggle.com/datasets/thedevastator/uncover-global-trends-in-mental-health-disorder).
 ## Getting Started:
 
 1. Clone this repository.
